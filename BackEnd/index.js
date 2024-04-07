@@ -14,16 +14,16 @@ const loginDb = new pg.Client({
   user: "postgres",
   host: "localhost",
   database: "Login",
-  password: "Bhushan@22210472",
-  port: 5432,
+  password: "",
+  port: ,
 });
 
 const StudentDb = new pg.Client({
   user: "postgres",
   host: "localhost",
   database: "StudentData",
-  password: "Bhushan@22210472",
-  port: 5432,
+  password: "",
+  port: ,
 });
 
 StudentDb.connect();
