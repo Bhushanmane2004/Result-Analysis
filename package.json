@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bard-api-node": "^2.0.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "openai": "^4.29.1",
+    "postgres": "^3.4.3"
+  }
+}
